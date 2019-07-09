@@ -21,6 +21,7 @@ Updated: July 9th, 2019
 * The Clean Architecture
 * Building Evolutionary Architectures: Support Constant Change
 * Patterns of Enterprise Application Architecture
+* The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise
 
 
 More Books recommendations
